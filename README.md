@@ -1,6 +1,4 @@
 # progetto_MAADB
-Progetto NoSQL di Oberto Azzurra e Trucco Sofia
-# progetto_MAADB
 
 Progetto NoSQL di Oberto Azzurra e Trucco Sofia
 
