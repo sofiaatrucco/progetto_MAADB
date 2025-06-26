@@ -1,0 +1,17 @@
+# Ignora file root
+package-lock.json
+
+# Ignora in Main_Server
+Main_Server/package.json
+Main_Server/package-lock.json
+Main_Server/node_modules/
+
+# Ignora in MongoDB_Server
+MongoDB_Server/package.json
+MongoDB_Server/package-lock.json
+MongoDB_Server/node_modules/
+
+# Ignora in Neo4j_Server
+Neo4j_Server/package.json
+Neo4j_Server/package-lock.json
+Neo4j_Server/node_modules/
